@@ -1,0 +1,57 @@
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.pdb
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.exe
+c:\users\user\documents\visual studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Classic_Space_Shooter.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.How_To_Play.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.About.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Stage2.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Stage3.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Final_Stage.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.exe
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.pdb
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.pdb
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.About.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Classic_Space_Shooter.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Final_Stage.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Form1.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.How_To_Play.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Properties.Resources.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Stage2.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Stage3.resources
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.csproj.GenerateResource.Cache
+C:\Users\Putra\Documents\EagleGet Downloads\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.csprojResolveAssemblyReference.cache
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.exe
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.pdb
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.pdb
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.csprojResolveAssemblyReference.cache
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.About.resources
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Classic_Space_Shooter.resources
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Final_Stage.resources
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Form1.resources
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.How_To_Play.resources
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Properties.Resources.resources
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Stage2.resources
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Stage3.resources
+E:\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.csproj.GenerateResource.Cache
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.exe
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.pdb
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.pdb
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.csprojResolveAssemblyReference.cache
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.About.resources
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Classic_Space_Shooter.resources
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Final_Stage.resources
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Form1.resources
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.How_To_Play.resources
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Properties.Resources.resources
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Stage2.resources
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game_Sederhana.Stage3.resources
+E:\Data Leptop\CV\Portofolio Program\Game Sederhana\Game Sederhana\Game Sederhana\obj\x86\Debug\Game Sederhana.csproj.GenerateResource.Cache
